@@ -40,6 +40,7 @@
     @include('partials.navbar')
     @yield('home')
     @yield('about')
+    @yield('contact')
     <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
     <script src="assets/vendor/aos/aos.js"></script>
     <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

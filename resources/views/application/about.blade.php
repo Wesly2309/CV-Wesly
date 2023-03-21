@@ -8,7 +8,7 @@
 
       <div class="section-title">
         <h2>About</h2>
-        <p>Hello, My name is Wesly. I'm a college student in Batam International University and I'm currently majoring in Information System.</p>
+        <p>Hello, My name is Wesly Lim. I'm a college student in Batam International University and I'm currently majoring in Information System.</p>
      <blockquote>"Always look forward and do your Best"</blockquote> 
     </div>
 
@@ -38,7 +38,7 @@
               </ul>
             </div>
           </div>
-          This is the Curriculum Vitae about Me
+          This is the Curriculum Vitae (CV) about Myself
         </p>
         </div>
       </div>
