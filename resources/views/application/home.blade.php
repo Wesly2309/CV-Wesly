@@ -9,7 +9,7 @@
       <p>I'm <span class="typed" data-typed-items="College Student, Developer, Designer, Animator"></span></p>
       <div class="social-links">
         <a href="https://instagram.com/" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://github.com/" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://github.com/Wesly2309" class="github"><i class="bx bxl-github"></i></a>
         <a href="https://facebook.com/" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://whatsapp.com/" class="whatsapp"><i class="bx bxl-whatsapp"></i></a>
       </div>
